@@ -17,7 +17,6 @@
 1. **Poção**: Use a seta para beber poção (vai um turno)
 2. **Atacar**: Utilize o mouse
 3. **Bloquear**: apenas o cavaleiro consegue (random)
-4. **Evitar ataques**: Desvie dos ataques inimigos enquanto tenta derrotá-los.
 
 ## Como Executar o Jogo
 
